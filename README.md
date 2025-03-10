@@ -1,6 +1,10 @@
 Voici une application pour gérer, classer, rechercher, modifier, dupliquer, ajouter, retirer des films.
 L'affichage est simple et intuitif.
 
+L'affichage à pas mal changer depuis la derniere fois en classe, car j'avais fais un affichage simplement pour plaire au récit utilisateur. 
+Ce dimanche 9 mars 2025, j'ai pu me concentré sur l'affichage de mon site. C'est pour ca qu'il est bien mieux et différent d'en classe.
+
+
 Addresse web du site : https://mathys4.github.io/appweb-trpr01/
 
 Adresse web du repository github : https://github.com/Mathys4/appweb-trpr01/
