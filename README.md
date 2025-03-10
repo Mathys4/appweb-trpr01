@@ -1,7 +1,11 @@
 Voici une application pour gérer, classer, rechercher, modifier, dupliquer, ajouter, retirer des films.
 L'affichage est simple et intuitif.
 
-Utilisation d'AppWeb GTP :
+Addresse web du site : https://mathys4.github.io/appweb-trpr01/
+
+Adresse web du repository github : https://github.com/Mathys4/appweb-trpr01/
+
+Utilisation d'AppWeb GTP : 
 
     - En général : 
         -Prompt : Donne moi un exemple d'un modal fonctionnel pour gérer un formulaire sur mon site.
